@@ -21,7 +21,7 @@ profiles:
 * ["Burn,"](https://bluemarblereview.com/burn/) Blue Marble Review
 * ["Drowning,"](https://readymag.com/u21126619/925660/19/) Crashtest
 * "Ageless," Polyphony HS (print)
-* ["My Father, The Tenor,"](http://justpoetry.org/winners_17-18/spring_17-18) National Poetry Quarterly
+* "My Father, The Tenor," National Poetry Quarterly
 * ["For Everest,"](https://www.thedaphnereview.org/wp-content/uploads/2015/04/Daphne-Review-Spring-2019-compressed-3-1.pdf) The Daphne Review
 
 ## Creative Writing Awards
@@ -29,7 +29,7 @@ profiles:
 * [Adroit Prize for Prose, 2022](https://theadroitjournal.org/2022/08/11/announcing-the-winners-of-the-2022-adroit-prizes-for-poetry-and-prose/)
 * [Best of the Net Nominee,](https://therisingphoenixreview.com/2018/09/30/best-of-the-net-nominations-2018/) 2x
 * [Foyle Young Poets, Commended](https://poetrysociety.org.uk/competitions/foyle-young-poets-of-the-year-award/)
-* [American High School Poets National Winner and $100 Editor's Choice Award](http://justpoetry.org/winners_17-18/spring_17-18)
+* American High School Poets National Winner and $100 Editor's Choice Award
 * [Keats-Shelley Young Romantics Poetry Prize Finalist](https://keats-shelley.org/news/2018s_keats_shelley_prize_awards)
 * [Poetry Matters Prize Finalist](https://soundcloud.com/poetrymattersproject/ghost-nandita-naik)
 
