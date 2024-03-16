@@ -19,4 +19,3 @@ social: false # includes social icons at the bottom of the page
 Hi there! I'm a master's student at Stanford, studying computer science and machine learning. I'm supervised by [Elisa Kreiss](https://www.coalas-lab.com/elisakreiss) and [Christopher Potts](https://web.stanford.edu/~cgpotts/papers.html). I'm interning at [Contextual AI](https://contextual.ai/) this summer, supervised by [Douwe Kiela](https://douwekiela.github.io/). My research interests are in the intersection of vision and language models.
 
 I'm also a published fiction and poetry writer.
-
