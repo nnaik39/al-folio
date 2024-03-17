@@ -26,6 +26,7 @@ I'm also a published fiction and poetry writer.
 <br>
 
 ## Research Publications
+
 <div class="publications">
 
 {% bibliography %}
@@ -33,6 +34,7 @@ I'm also a published fiction and poetry writer.
 </div>
 
 ## Awards
+
 - CS 229 Best Project for [satellite image embeddings project](https://static.us.edusercontent.com/files/iDT2TYD92tg33W2H8bCgC836), awarded in Andrew Ng's graduate-level machine learning class, selected from 300+ students
 - Stanford CS + Social Good Fellowship
 - USA Computing Olympiad Gold Division
